@@ -5,3 +5,6 @@ compile.log
 server.log
 server.p12
 *.iml
+parentUpdates.txt
+dependencyUpdates.txt
+pluginUpdates.txt
