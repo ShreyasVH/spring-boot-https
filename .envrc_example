@@ -3,9 +3,9 @@ export PATH=
 
 # java 25.0.2 path
 export PATH=
+export JAVA_HOME=
 
 export PORT=
 
 export SSL_PASSWORD=
 export SSL_ALIAS=
-
